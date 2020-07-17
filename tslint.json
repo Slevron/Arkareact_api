@@ -1,0 +1,21 @@
+{
+    "extends": [
+        "tslint:recommended"
+    ],
+    "linterOptions": {
+        "exclude": [
+          "**/*.js",
+          "node_modules/**/*.*",
+          "**/*/node_modules/**/*.*",
+          "**/*.d.ts"
+        ]
+    },
+    "rules": {
+        "no-console": false,
+        "eofline": true,
+        "quotemark": [true, "single"]
+    },
+    "jsRules": {
+        "no-console": false
+    }
+}
