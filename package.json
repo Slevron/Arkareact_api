@@ -14,7 +14,7 @@
       "dtslint": "^3.5.0",
       "koa": "^2.11.0",
       "koa-bodyparser": "^4.3.0",
-      "koa-jwt": "^3.6.0",
+      "koa-jwt": "^4.0.4",
       "koa-router": "^8.0.8",
       "mysql": "^2.14.1",
       "reflect-metadata": "^0.1.10",
